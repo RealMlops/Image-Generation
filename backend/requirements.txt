@@ -1,0 +1,9 @@
+fastapi
+pillow
+uvicorn
+python-multipart
+jax[cpu]
+dm-haiku
+optax
+numpy
+matplotlib
